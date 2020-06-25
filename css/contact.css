@@ -1,0 +1,33 @@
+body {
+    background-image: url(../images/space\ 2.jpg);
+    
+
+  }
+  a{
+    display: inline-block;
+     color: purple;
+     text-align: center;
+     padding: 14px;
+     text-decoration: none;
+    top: 0;
+    position: relative;
+}
+nav{
+    width: 100%;
+  }
+  li{
+    border:right;
+    list-style: none;
+    
+}
+ul{
+    display: flex;
+    background-color: rgb(8, 5, 5);
+}
+a:hover{
+  background-color: #C6E9FF;
+}
+body{
+    color: yellowgreen;
+    text-align: center;
+}
