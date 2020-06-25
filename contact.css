@@ -31,3 +31,8 @@ body{
     color: yellowgreen;
     text-align: center;
 }
+#logo{
+  float: left;
+  height: 5%;
+  width: 8%;
+}

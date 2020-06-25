@@ -33,3 +33,8 @@ p{
     text-align: center;
     text-size-adjust: 30px;
 }
+#logo{
+  float: left;
+  height: 5%;
+  width: 8%;
+}
